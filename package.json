@@ -1,0 +1,12 @@
+{
+  "name": "eslint-plugin-test",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": "^7.25.0",
+    "eslint-plugin-vue": "^7.9.0"
+  }
+}
